@@ -1,0 +1,10 @@
+name: CRD-15
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - scikit-image
+  - matplotlib
+  - numpy
+  - scipy
+  - nb_conda
